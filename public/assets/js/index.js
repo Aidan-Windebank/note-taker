@@ -46,9 +46,9 @@ const deleteNote = (id) => {
   fetch(`/api/notes/${id}`, {
     method: 'DELETE',
   })
-    .then( resp => resp.json())
-    .then(data => data)
-    return data
+    // .then( resp => resp.json())
+    // .then(data => data)
+    // return data
 }
 
 const renderActiveNote = (activeNote) => {

@@ -1,51 +1,16 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
+        "title": "How to",
+        "text": "Enter new notes on the right, see saved notes by clicking on note on the left."
     },
     {
-        "title": "Test Title",
-        "text": "Test text",
-        "note_id": "a6ad"
-    },
-    {
-        "title": "asdfasdf",
-        "text": "asdfasdfasdfasdfasdfasdfasdf",
-        "note_id": "5b8f"
+        "title": "asdfas",
+        "text": "asdf",
+        "id": "93a3"
     },
     {
         "title": "new note",
-        "text": "i am gonna do stuff today",
-        "note_id": "0468"
-    },
-    {
-        "title": "asdfasdfa",
-        "text": "sfsdfsdf",
-        "note_id": "bb82"
-    },
-    {
-        "title": "asdfs",
-        "text": "fsdfsdf",
-        "note_id": "c46e"
-    },
-    {
-        "title": "hi",
-        "text": "new note",
-        "id": "2ddb"
-    },
-    {
-        "title": "hi ",
-        "text": "new note",
-        "id": "1cc4"
-    },
-    {
-        "title": "hi ",
-        "text": "hello",
-        "id": "0694"
-    },
-    {
-        "title": "ay yo?",
-        "text": "ay yo",
-        "id": "72d8"
+        "text": "i need to do stuff today",
+        "id": "d2ab"
     }
 ]
