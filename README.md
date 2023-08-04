@@ -16,4 +16,4 @@ The following Express web application allows the user to take and store notes.
 [Click Here to View GitHub Repo](https://github.com/Aidan-Windebank/note-taker)
 
 ## Link to Deployed Web Application
-[Click Here to View Video]()
+[Click Here to Visit Web Application]()
